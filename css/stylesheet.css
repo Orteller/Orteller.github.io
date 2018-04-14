@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+html{
+  cursor:url("accel0000.gif"), auto;
+}
+body{
+  background-image: url(../Background.gif);
+/*  color: transparent; */
+  margin:0;
+  text-align: center;
+  background-size: cover;
+
+}
+rjjs{
+  color: transparent;
+}
+
+h1{
+  text-align: center;
+}
+
+.invis{
+  color: transparent;
+}
+
+.invis:hover {
+    color: #000000;
+    background-color: transparent;
+    font-size: 16px
+}
+
+p:hover {
+}
+
+.space {
+  border-left: 1px transparent;
+  height: 1800px;
+}
